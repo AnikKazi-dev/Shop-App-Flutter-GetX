@@ -14,7 +14,6 @@ Shop
 * [About the Project](#about-the-project)
 * [Key Features](#key-features)
 * [Built With](#build)
-* [License](#license)
 * [Contact](#contact)
 
 ## Mockup
