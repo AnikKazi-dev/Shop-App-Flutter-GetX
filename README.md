@@ -32,7 +32,7 @@ Shop
 
 * **State management**: GetX
 * **Backend connection**: API provider pattern
-* Just a UI page of a Shopping App
+* UI page of a Shopping App
 
 ## Key Features
 
