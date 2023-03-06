@@ -30,13 +30,14 @@ Shop
 
 ## About the project
 
-* **XXXXXX**: XXX.
-* **XXXX**: XXXXXXXX.
+* **State management**: GetX
+* **Backend connection**: API provider pattern
+* Just a UI page of a Shopping App
 
 ## Key Features
 
-* **State management**: Redux, BloC, repository patterns .
-* **Backend connection**: API provider pattern.
+• Browse Products
+
 
 ## Built With
 
