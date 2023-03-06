@@ -13,7 +13,7 @@ Shop
 * [Screenshots](#screenshots)
 * [About the Project](#about-the-project)
 * [Key Features](#key-features)
-* [Built With](#build)
+* [Built With](#built)
 * [Contact](#contact)
 
 ## Mockup
